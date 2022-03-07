@@ -80,11 +80,10 @@ git clone -b main https://gitlab.com/proyecto-integrador-0321/camada-1/grupo-1.g
 
 
 * **Liliana Vasquez** - *Front-End* - [Lilitaker](https://gitlab.com/Lilitaker)
-* 
-* **David Muñoz** - *Testing* - [davidmunozramirez](https://github.com/davidmunozramirez)
+* **David Muñoz** - *Front-End & Testing* - [davidmunozramirez](https://github.com/davidmunozramirez)
 * **Daniela Bilbao** - *Data Base* - [danielabilbao](https://github.com/danielabilbao)
 * **Antonella Manentti** - *Infrastructure* - [antomanentti](https://github.com/antomanentti)
-* **Yesid Barragan** - *Testing* - [YesidBarragan](https://github.com/YesidBarragan)
+* **Yesid Barragan** - *Front-End & Testing* - [YesidBarragan](https://github.com/YesidBarragan)
 * **Gabriel Salamanca** - *Back-End* - [GabrielSalamancaCastro](https://github.com/GabrielSalamancaCastro)
 
 ## 🎁 Expressions of Gratitude
